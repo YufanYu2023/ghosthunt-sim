@@ -1,0 +1,21 @@
+This is a simulation of ghost hunting
+
+The author：
+Yufan Yu; Mason McLeod
+
+list of files:
+main.c
+room.c
+defs.h
+builfings.c
+ghost.c
+hunter.c
+Evidence.c
+Makefiles
+README.text
+
+
+command(linux):
+make all
+./final
+
